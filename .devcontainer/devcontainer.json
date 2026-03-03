@@ -1,0 +1,1 @@
+{\n  \"version\": \"0.2\",\n  \"name\": \"Go Development Environment\",\n  \"settings\": {\n    \"go.useLanguageServer\": true,\n    \"go.autocompleteUnimportedPackages\": true\n  },\n  \"extensions\": [\n    \"golang.go\"\n  ],\n  \"postCreateCommand\": \"go mod tidy\"\n}
